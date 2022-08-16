@@ -9,10 +9,139 @@
   --White: hsl(0, 0%, 100%);
 }
 
-p {
+/*.product-image {
+  width: 343px;
+  height: 240px;
+}
+
+.container {
+  text-align: center;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  width: 375px;
+  height: 667px;
+  background-color: var(--Cream);
+  border-radius: 10px;
+}
+
+.card {
+  position: absolute;
+  width: 343px;
+  height: 611px;
+  left: 16px;
+  top: 28px;
+  border-radius: 10px;
+  background-color: var(--White);
+}
+
+.product-image {
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.perfume {
+  position: absolute;
+  height: 15px;
+  top: 264px;
+  bottom: 332px;
+  left: 24px;
+  right: 227;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 15px;
+  letter-spacing: 5px;
+  color: var(--Dark-grayish-blue);
+}
+
+.gabrielle {
+  position: absolute;
+  height: 64px;
+  top: 291px;
+  bottom: 256px;
+  right: 24px;
+  left: 24px;
   font-family: "Fraunces";
   font-style: normal;
   font-weight: 700;
   font-size: 32px;
   line-height: 32px;
+  color: var(--Very-dark-blue);
 }
+
+.floral {
+  position: absolute;
+  height: 92px;
+  top: 371px;
+  bottom: 148px;
+  left: 24px;
+  right: 24px;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 23px;
+  color: var(--Dark-grayish-blue);
+}
+
+.price {
+  position: absolute;
+  height: 32px;
+  top: 487px;
+  bottom: 92px;
+  left: 24.5px;
+  right: 191.5;
+  font-family: "Fraunces";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 32px;
+  color: var(--Dark-cyan);
+}
+
+del {
+  position: absolute;
+  height: 23px;
+  top: 492px;
+  bottom: 96px;
+  left: 170.5px;
+  right: 124.5px;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 13px;
+  line-height: 23px;
+  color: var(--Dark-grayish-blue);
+}
+
+button {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  width: 295px;
+  height: 48px;
+  left: 25px;
+  top: 539px;
+  bottom: 24px;
+  right: 23px;
+  border-radius: 8px;
+  background-color: var(--Dark-cyan);
+  color: var(--White);
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 17px;
+  border: none;
+}
+
+.add {
+    margin-left: 10px;
+}*/
