@@ -1,5 +1,4 @@
-@import url("https://fonts.google.com/specimen/Montserrat:wght@500; 700&display=swap");
-@import url("https://fonts.google.com/specimen/Fraunces:wght@700&display=swap");
+@import url("https://fonts.google.com/specimen/Montserrat, Fraunces:wght@500; 700&display=swap");
 
 :root {
   --Dark-cyan: hsl(158, 36%, 37%);
@@ -9,7 +8,7 @@
   --White: hsl(0, 0%, 100%);
 }
 
-/*.product-image {
+.product-image {
   width: 343px;
   height: 240px;
 }
@@ -22,18 +21,21 @@
   left: 0;
   right: 0;
   margin: auto;
-  width: 375px;
-  height: 667px;
+  width: 100%;
+  height: 100%;
   background-color: var(--Cream);
-  border-radius: 10px;
 }
 
 .card {
   position: absolute;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
   width: 343px;
   height: 611px;
-  left: 16px;
-  top: 28px;
   border-radius: 10px;
   background-color: var(--White);
 }
@@ -59,9 +61,11 @@
   color: var(--Dark-grayish-blue);
 }
 
-.gabrielle {
-  position: absolute;
+h1 {
+  text-align: start;
+  width: 295px;
   height: 64px;
+  position: absolute;
   top: 291px;
   bottom: 256px;
   right: 24px;
@@ -74,8 +78,10 @@
   color: var(--Very-dark-blue);
 }
 
-.floral {
+p {
+  text-align: start;
   position: absolute;
+  width: 295px;
   height: 92px;
   top: 371px;
   bottom: 148px;
@@ -143,5 +149,5 @@ button {
 }
 
 .add {
-    margin-left: 10px;
-}*/
+  margin-left: 10px;
+}
