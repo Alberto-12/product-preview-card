@@ -1,6 +1,6 @@
 # Frontend Mentor - Product preview card component solution
 
-This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/solutions/productpreviewcard-feV5CiObXG). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -31,8 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [live site URL](https://alberto-12.github.io/product-preview-card/)
 
 ## My process
 
@@ -44,12 +43,10 @@ Users should be able to:
 
 ### What I learned
 
-In this challenge I learned how to work with Flebox.
-
-To see how you can add code snippets, see below:
+This is an HTML & CSS-only challenge  perfect for starting to build responsive projects. Here's a snippet of the CSS code where I used Flexbox which I'm proud of:
 
 ```css
-.proud-of-this-css {
+.container {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -68,10 +65,10 @@ I'm looking forward to get better on working with HTML, CSS.
 
 ## Author
 
-- Frontend Mentor - [@Alberto-12](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Alberto-12](https://www.frontendmentor.io/profile/Alberto-12)
 
 ## Acknowledgments
 
-I'm thankfull for my mentor Treasure Kabareebe that guided me through the process.
+I'm thankfull for my mentor [Treasure Kabareebe](https://github.com/trekab) that guided me through the process.
 
 
